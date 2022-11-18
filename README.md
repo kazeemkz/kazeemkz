@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kazeem Oyebode
-- 👀 I develop computer vision models 
+- 👀 I develop computer vision systems 
 - 💞️ I’m looking to collaborate on new ideas in computer vision 
 - 📫 Reach me on kazeemkz@gmail.com
 
